@@ -1,6 +1,5 @@
 
 
-```markdown
 # A novel pixel-shifting and key-scrambling driven triple-layer key generation technique for DNA-based image encryption
 
 This repository contains the Python implementation of the image encryption framework presented in our IPOL paper: *[A novel pixel-shifting and key-scrambling driven triple-layer key generation technique for DNA-based image encryption]*. The main code is in `MultiLayer_BaseCode.py`, and additional scripts are included for testing robustness, randomness, and image quality metrics.
