@@ -13,7 +13,6 @@ This repository contains the Python implementation of the image encryption frame
 
 .
 ├── data/                  # Input images for testing
-├── results/               # Folder where encrypted images and metric outputs will be saved
 ├── src/                   # Python source code
 │   ├── MultiLayer_BaseCode.py   # Main encryption code
 │   ├── chi_square.py           # Chi-square test for encrypted images
