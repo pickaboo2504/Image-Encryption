@@ -286,7 +286,7 @@ def decryption(key1, key2, key3, encrypted_image):
     return decrypted_image
 
 def main():
-    image_path = 'khalid/lena.png' 
+    image_path = '//data/lena.png' 
     image = Image.open(image_path)
     image_array = np.array(image)
     
